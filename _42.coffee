@@ -1,0 +1,2 @@
+(parameters) ->
+  42
