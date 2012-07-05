@@ -1,0 +1,5 @@
+module FourtyTwo (answer_to_the_ultimate_question_of_life_universe_and_everything) where
+{
+	answer_to_the_ultimate_question_of_life_universe_and_everything = 42
+}
+
