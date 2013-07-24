@@ -1,2 +1,3 @@
-(parameters) ->
+_42 = (parameters) ->
+  parameters = null
   42
