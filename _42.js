@@ -1,4 +1,3 @@
-var _42 = function(param) {
-    param = null;
-    return 42;
-}
+'use strict';
+
+module.exports = param => 42;
