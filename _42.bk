@@ -1,10 +1,22 @@
-+++++ +++++ +
+++
 [
-    > +++++ 
-    > +
-    << -
+    >
+     +++++
+      +++++
+       +++++
+        +++++
+         +++++
+                >
+         +++++
+        +++++
+       +++++
+      +++++
+     +++++
+    <
+    < -
 ]
 
 > ++ .
--- .
 > .
+
+http://fatiherikli.github.io/brainfuck-visualizer/#KysKWwogICAgPgogICAgICsrKysrCiAgICAgICsrKysrCiAgICAgICArKysrKwogICAgICAgICsrKysrCiAgICAgICAgICsrKysrCiAgICA+CiAgICAgICAgICsrKysrCiAgICAgICAgKysrKysKICAgICAgICsrKysrCiAgICAgICsrKysrCiAgICAgKysrKysKICAgIDw8IC0KXQoKPiArKyAuCj4gLgo=
