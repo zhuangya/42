@@ -1,3 +1,3 @@
 'use strict';
 
-module.exports = param => 42;
+module.exports = () => 42;
